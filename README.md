@@ -1,7 +1,22 @@
- Welcome to Burger Boutique
- 
+
+### Burger Boutique
+
+
+## preview
+
 ![Home page](https://github.com/chanceDira/Burger-Boutique/blob/main/virtual/burger.png)
 
-npm install
+![Home page](https://github.com/chanceDira/Burger-Boutique/blob/main/virtual/order.png)
 
-npm start
+https://chancedira.github.io/Burger-Boutique/
+
+## install
+```
+$ npm i 
+```
+
+## Development
+
+```
+$ npm start
+```
