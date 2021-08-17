@@ -10,6 +10,11 @@
 
 https://chancedira.github.io/Burger-Boutique/
 
+## Enter Directory
+```
+$ cd Burger-Boutique 
+```
+
 ## install
 ```
 $ npm i 
