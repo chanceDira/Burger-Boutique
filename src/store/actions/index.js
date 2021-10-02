@@ -4,6 +4,8 @@ export {
     initIngredients
 } from './burgerBuilder'
 
-export { purchasedBurger,
-
+export { 
+    purchasedBurger,
+    purchaseInit,
+    fetchOrders
 } from './order'
